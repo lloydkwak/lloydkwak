@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Welcome%20to%20Lloyds%20GitHub%20⚡&fontSize=35&animation=twinkling)
-
 # 🆕 Recent
 ### 💻 GitHub 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lloydkwak&show_icons=true&bg_color=00000000)
