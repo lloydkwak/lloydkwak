@@ -17,6 +17,7 @@ My journey in tech is driven by the challenge of creating systems that can learn
 - [RL_intro](https://github.com/lloydkwak/RL_intro)
 - [Logisim_MLP](https://github.com/lloydkwak/Logisim_MLP)
 - [Trade-Builder](https://github.com/Trade-Builder)
+- [rl-arena](https://github.com/rl-arena)
 
 Feel free to explore my repositories and see what I'm working on!
 
