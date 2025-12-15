@@ -9,17 +9,11 @@ My journey in tech is driven by the challenge of creating systems that can learn
 ## My Interests
 - Reinforcement Learning
 
+- ALife
+
 - Machine Learning
 
 - Problem Solving
-
-## My GitHub Projects
-- [RL_intro](https://github.com/lloydkwak/RL_intro)
-- [Logisim_MLP](https://github.com/lloydkwak/Logisim_MLP)
-- [Trade-Builder](https://github.com/Trade-Builder)
-- [rl-arena](https://github.com/rl-arena)
-
-Feel free to explore my repositories and see what I'm working on!
 
 ## Contact
 kwaklloyd@gmail.com
