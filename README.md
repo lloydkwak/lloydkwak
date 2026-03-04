@@ -1,14 +1,10 @@
 # DongGeon Kwak (Lloyd)
-[📧 Email](mailto:kwaklloyd@gmail.com) | [🖥️ GitHub](https://github.com/lloydkwak) | [📝 Portfolio](https://your-portfolio-link.com)
+[📧 Email](mailto:kwaklloyd@gmail.com) |
 
 ## 🎓 Education
 **Seoul National University of Science and Technology (SeoulTech)** | Seoul, South Korea
 * **B.S. in Computer Science and Engineering** (Major)
 * **B.S. in Applied Artificial Intelligence** (Minor)
-* **Relevant Coursework:**
-    * *Core CS:* Data Structures and Abstract Data Types, Algorithm Design and Analysis, Operating Systems, Computer Architecture.
-    * *AI & Robotics:* Machine Learning, Deep Learnin, Reinforcement Learning, Computer Vision.
-    * *Math:* Applied Statistics, Linear Algebra, Data Analysis.
 
 ---
 
@@ -23,7 +19,7 @@ I am fascinated by **intelligence that manifests in the physical world.** My goa
 
 ## 🚀 Featured Research
 
-### [**V-CoT Diffusion: Visual Chain-of-Thought for Robot Control**](https://github.com/lloydkwak/V-CoT_Diffusion)
+### [**Resilient-Flow**](https://github.com/lloydkwak/Resilient-Flow)
 *Ongoing Research Project | 2026 – Present*
 * **Core Concept:** Integrating sequential visual reasoning with generative policy modeling to enhance long-horizon planning in robotic agents.
 * **Objective:** Improving the success rates and interpretability of multi-stage manipulation tasks in non-stationary environments.
